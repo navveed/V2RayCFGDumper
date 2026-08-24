@@ -16,6 +16,8 @@ jobs:
     steps:
       - name: checkout repo content
         uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
 
       - name: setup python
         uses: actions/setup-python@v4
@@ -34,6 +36,15 @@ jobs:
       - name: setup git config
         run: |
           git config user.name "GitHub Actions Bot"
-          git config user.email "<>"
+          git config user.email "bot@github.com"
+
+      - name: Sync with remote
+        run: |
+          git pull --rebase origin main
+        continue-on-error: true
           
       - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "auto: update config"
+          skip_fetch: false
+          skip_checkout: false
