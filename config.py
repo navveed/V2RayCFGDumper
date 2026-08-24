@@ -5,6 +5,8 @@ import pytz
 import jdatetime
 
 addresses = [
+"https://telegram.me/s/HoosheMasnui"
+"https://telegram.me/s/chillguy_vpn"
 "https://telegram.me/s/filembad",
 "https://telegram.me/s/blackRay",
 "https://telegram.me/s/Config_magazine",
