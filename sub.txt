@@ -1,9 +1,9 @@
-vless://0f856f56-822f-49f6-b059-1dfb17466755@78.141.219.108:4083?security=none&encryption=none&headerType=none&type=tcp#🌐 زمان به‌روزرسانیAba-01 | 03:14 | هر 15 دقیقه
-0canfingV2rayNGvless://2650433b-4ee1-3c57-e3a7-43c678e8068c@x4g-production-ea42.up.railway.app:443?path=%2Fws%2F2650433b-4ee1-3c57-e3a7-43c678e8068c&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=x4g-production-ea42.up.railway.app&fp=firefox&type=ws&allowInsecure=0&sni=x4g-production-ea42.up.railway.app#🌐سرور 1 | Aba-01| Navid
-vless://f61025f4-7973-4e3e-883c-a0fe85f0489c@72.56.52.30:443?security=reality&encryption=none&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=lv.rexten.cc#🌐سرور 2 | Aba-01| Navid
-vless://4d7d1add-0a51-4887-b10a-07c68df24f7e@sosk.sorix-home.ir:60231?security=&encryption=none&headerType=http&type=tcp#🌐سرور 3 | Aba-01| Navid
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.230.230.18:19999#🌐سرور 4 | Aba-01| Navid
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.230.230.18:19999#🌐سرور 5 | Aba-01| Navid
+vless://e15b340b-f1c8-4974-bfca-edc788959f24@49.13.19.156:28110?security=none&encryption=none&host=www.google.com&headerType=http&type=tcp#🌐 زمان به‌روزرسانیAba-01 | 05:29 | هر 15 دقیقه
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.230.230.18:19999#🌐سرور 1 | Aba-01| Navid
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.230.230.18:19999#🌐سرور 2 | Aba-01| Navid
+vless://f2a1f964-7cfb-435f-abb2-2969bd595c75@wwww.qarvian.ir:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=albaniji.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=firefox.com#🌐سرور 3 | Aba-01| Navid
+vless://4d7d1add-0a51-4887-b10a-07c68df24f7e@sosk.sorix-home.ir:60231?security=&encryption=none&headerType=http&type=tcp#🌐سرور 4 | Aba-01| Navid
+vless://f61025f4-7973-4e3e-883c-a0fe85f0489c@72.56.52.30:443?security=reality&encryption=none&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=lv.rexten.cc#🌐سرور 5 | Aba-01| Navid
 vless://0fc3eba4-2774-4c99-cfc7-c38b007908b0@43.174.247.53:443?path=%2F55072%2Fapi&security=tls&encryption=none&insecure=0&host=aron.irandoc.info&fp=chrome&type=ws&allowInsecure=0&sni=sni.irandoc.info#🌐سرور 6 | Aba-01| Navid
-vless://e15b340b-f1c8-4974-bfca-edc788959f24@49.13.19.156:28110?security=none&encryption=none&host=www.google.com&headerType=http&type=tcp#🌐سرور 7 | Aba-01| Navid
-vless://f2a1f964-7cfb-435f-abb2-2969bd595c75@wwww.qarvian.ir:443?pcs=CD6E838B9BFE31CAB8B3D5C858B0D6223FE84ECE236C1FDB281BE93C302E1E6E&path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=albaniji.global.ssl.fastly.net.&type=ws&allowInsecure=0&sni=firefox.com#🌐سرور 8 | Aba-01| Navid
+vless://0f856f56-822f-49f6-b059-1dfb17466755@78.141.219.108:4083?security=none&encryption=none&headerType=none&type=tcp#🌐سرور 7 | Aba-01| Navid
+0canfingV2rayNGvless://2650433b-4ee1-3c57-e3a7-43c678e8068c@x4g-production-ea42.up.railway.app:443?path=%2Fws%2F2650433b-4ee1-3c57-e3a7-43c678e8068c&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=x4g-production-ea42.up.railway.app&fp=firefox&type=ws&allowInsecure=0&sni=x4g-production-ea42.up.railway.app#🌐سرور 8 | Aba-01| Navid
